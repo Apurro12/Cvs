@@ -1,1 +1,281 @@
 
+% Preambulo
+
+\documentclass[10pt,a4paper]{article} %Clase de documento
+
+%Paquetes:
+\usepackage[spanish]{babel} %Idioma para silabeo y estilo
+\usepackage[utf8]{inputenc} %Codificación de texto
+\usepackage{color}
+\usepackage{currvita}
+
+%\date{}
+\begin{document}
+
+\begin{cv}{Curriculum Vitae}
+\begin{cvlist}{a) Datos Personales:}
+\item[Apellidos] Amadio
+\item[Nombres] Camilo Leonel
+\item[Fecha de nacimiento] 27/04/1995
+\item[Lugar de Nacimiento] Ciudad de Buenos Aires
+\item[Nacionalidad] Argentina
+\item[D.N.I.] 38,891,879
+\item[Domicilio real] calle 37 N$^o$ 340, La Plata
+\item[Estado Civil] Soltero
+\item[Tel] (0221)-15-5945496
+\item[Correo electrónico] camiloamadio57@gmail.com
+\end{cvlist}
+
+\begin{cvlist}{b) Títulos Obtenidos:}
+\item[Título secundario] Bachiller en administración
+\item[Institución] Instituto "Santa Teresita" 
+\item[Año de egreso] 2012
+\end{cvlist}
+
+\begin{cvlist}{c) Datos académicos:}
+\item[Carreras en curso] Licenciatura en Física  (Plan 1988), Facultad de Ciencias Exactas, UNLP
+\item[Año de ingreso] 2013 
+\item[Número de alumno] 59145/4 
+\end{cvlist}
+
+\newpage
+
+
+  
+  \begin{cvlist}{Materias Aprobadas:}
+\item[ ]
+\end{cvlist}
+
+  
+
+\begin{tabular}{lll}
+   Materia                       	& Nota &fecha\\\hline\hline
+ Física General I         			& 8 & 26/11/13\\
+ Física Experimental I    			& 8 & 24/09/13\\
+ Análisis Matemático I     			& 5 &21/10/14\\
+ Álgebra I                   		& 9 &05/03/15\\
+ Física General II        			& 10 &12/02/14\\
+ Física Experimental II   			& 10 &12/02/14\\
+ Física General III          		& 9 &03/03/15\\
+ Física Experimental III   			& 9 &04/03/15\\
+ Análisis Matemático II  	 		& 8 &08/04/15\\
+ Física General IV    				& 10 & 15/06/16 \\
+ Física Experimental IV  			& 8 &21/10/15\\
+ Matemáticas Especiales I 			& 10 &25/09/15\\
+ Álgebra Lineal: Aplicaciones Físicas (Optativa)	& 10 &27/04/16\\
+ Mecánica Analítica               & 9 &28/09/16\\
+ Matemáticas Especiales II       & 9 & 26/09/16\\
+ Métodos de la Física Matemática (Optativa) & 10 & 27/03/17 \\
+ Electromagnetismo I &10 & 08/03/17 \\
+ Experimentos Electromagnéticos &10 & 16/02/17 \\
+ Experimentos Cuánticos I & 10 & 25/08/17 \\
+ Mecánica Cuántica I & 10 & 27/09/17 \\
+ Física Macroscópica   & 10 & 22/11/17 \\
+ Mecánica II & 10 & 20/12/17 \\
+ Electromagnetismo II & 10 & 21/12/17 \\
+ Mecánica Estadística & 7 & 18/04/18 \\
+ Física de la Materia Blanda & 10 & 19/04/18 \\
+ Experimentos Cuánticos II & 10 & 16/05/18 \\
+ Simulaciones Computacionales en Física & 9 & 03/07/18 \\
+ Mecánica Cuántica II & 10 & 30/08/18 \\
+ Porcentaje de carrera aprobada & 93,33  & \\
+
+  \end{tabular}
+
+\begin{cvlist}{Trabajos Prácticos Aprobados:}
+\item[ ]
+\end{cvlist}
+
+\begin{tabular}{l}
+
+ Máquinas Cuánticas (Optativa en UTN FRLP)\\
+ 
+\end{tabular}
+
+\begin{cvlist}{Materias en curso:}
+\item[ ]
+\end{cvlist}
+
+\begin{tabular}{l}
+Tesina de Grado
+\end{tabular}
+ 
+\begin{cvlist}{ }
+\item [Son 28 materias aprobadas y 1 Trabajos Prácticos.]
+\item[Promedio con aplazos] 9.21
+\item[Promedio sin aplazos] 9.21
+\end{cvlist}
+%
+
+\begin{cvlist}{Materias restantes:}
+\item Tesis de Grado
+\end{cvlist}
+
+\begin{cvlist}{Fecha estimada de Finalización de Carrera:}
+\item 20/4/2019
+\end{cvlist}
+
+
+
+\begin{cvlist}{d) Cargos docentes desempeñados:}
+
+\item Ayudante Alumno Rentado Interino con Dedicación simple: \\ 
+Catedra "Física II", Departamento de Ciencias Básicas, Facultad de Ingeniería, UNLP. \\
+Designación desde 30-03-18 al 31-03-2019
+
+\item Ayudante Alumno Rentado Interino Dedicación simple: \\ 
+Catedra "Matemática C", Departamento de Ciencias Básicas, Facultad de Ingeniería, UNLP. \\
+Designación desde 31-03-18 al 31-03-18, Renunciado el 01-05-18 
+
+
+\end{cvlist}
+
+\begin{cvlist}{e) Carrera Docente Universitaria:}
+
+\item No Consigna
+
+\end{cvlist}
+
+\begin{cvlist}{f) Cursos de Formación Docente:}
+
+\item No Consigna
+
+\end{cvlist}
+
+\begin{cvlist}{g) Asistencia a Cursos:}
+
+\item No Consigna
+
+\end{cvlist}
+
+\begin{cvlist}{h) Dictado de  Cursos:}
+
+\item No Consigna
+
+\end{cvlist}
+
+\begin{cvlist}{i) Publicaciones Docentes:}
+
+\item No Consigna
+
+\end{cvlist}
+
+\begin{cvlist}{j) Cargos en la Investigación:}
+
+\item No Consigna
+
+\end{cvlist}
+
+\begin{cvlist}{k) Becas y / o residencias obtenidas}
+
+\item Beca Estimulo a las Vocaciones Científicas EVC-CIN \\
+Desde 01-05-18 al 01-05-18 \\
+Lugar: Instituto de Física de La Plata
+Nombre del tema: Funciones espectrales en teorías cuánticas de campos con singularidades \\
+Director: Pablo Andres Gonzales Pisani
+
+\item Escuela de Verano \\
+Desde 04-02-19 al 01-03-19 \\
+Lugar: Instituto Balseiro, Centro Atómico de Bariloche\\
+Nombre del Proyecto: Imágenes radiográficas de alta resolución espacial con sensores de imagen CMOS \\
+Director: Jose Lipovetsky
+
+
+\end{cvlist}
+
+\begin{cvlist}{l) Publicaciones Científicas:}
+
+\item No Consigna
+
+\end{cvlist}
+
+\begin{cvlist}{m) Estadías en Otros Laboratorios:}
+
+\item No Consigna
+
+\end{cvlist}
+
+\begin{cvlist}{n) Patentes:}
+
+\item No Consigna
+
+\end{cvlist}
+
+\begin{cvlist}{o) Formación de Recursos Humanos:}
+
+\item No Consigna
+
+\end{cvlist}
+
+\begin{cvlist}{p) Obtención de Subsidios:}
+
+\item No Consigna
+
+\end{cvlist}
+
+\begin{cvlist}{q) Convenios con Otros Grupos de Investigación:}
+
+\item No Consigna
+
+\end{cvlist}
+
+\begin{cvlist}{r) Convenios con Empresas o Asociaciones Civiles:}
+
+\item No Consigna
+
+\end{cvlist}
+
+\begin{cvlist}{s)  Comunicaciones a congresos:}
+
+\item 102a Reunión de la Asociación Física Argentina. En La Plata, realizada
+del 26 al 29 de Septiembre de 2017.
+
+\item 103a Reunión de la Asociación Física Argentina. En la Facultad de Ciencias Exactas y Naturales de la UBA, realizada del 17 al 21 de Septiembre
+de 2018.
+
+\end{cvlist}
+
+\begin{cvlist}{t)  Informes técnicos:}
+
+\item No Consigna
+
+\end{cvlist}
+
+
+\begin{cvlist}{u) Actividades de Extensión Universitaria:}
+
+\item   No Consigna
+
+\end{cvlist}
+
+\begin{cvlist}{v) Antecedentes Profesionales:}
+
+\item   No Consigna
+
+\end{cvlist}
+
+\begin{cvlist}{w) Actuación como secretario, consejero o miembro de comisiones asesoras:}
+
+
+\item Consejero Departamental Titular del Consejo Departamental de Física de la Facultad de Ciencias Exactas desde el día 1 de Agosto de 2015, hasta el día 1 de Agosto de 2016.  
+
+\item Miembro de la comisión asesora del departamento de Física :
+" Comisión de Materias Optativas " Desde 01-10-17 al 01-04-17
+
+\end{cvlist}
+
+\begin{cvlist}{x) Otros Antecedentes de Interés}
+
+\item No Consigna
+
+\end{cvlist}
+
+\begin{cvlist}{y) Numero de Cargos al que Aspiro}
+
+\item 2 Cargos Ayudante Alumno
+\item 2 Cargos Ayudante Diplomado
+
+\end{cvlist}
+
+\end{cv}
+\end{document}

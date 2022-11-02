@@ -1,6 +1,7 @@
 
 % Preambulo
 
+
 \documentclass[10pt,a4paper]{article} %Clase de documento
 
 %Paquetes:
